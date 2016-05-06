@@ -10,4 +10,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    /**
+     * Created by AHTD 04 on 6/5/2559.
+     */
+    public static class Number {
+
+    }
 }
